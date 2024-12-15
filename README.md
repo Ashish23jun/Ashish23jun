@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with [Project Management System]([https://github.com/Ashish23jun/ENotes](https://github.com/Ashish23jun/ProjectManagementSystem))
+- 🤝 I’m looking for help with [Project Management System]((https://github.com/Ashish23jun/ProjectManagementSystem))
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish23jun](https://github.com/Ashish23jun)
 
