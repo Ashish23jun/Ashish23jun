@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish23jun&label=Profile%20views&color=0e75b6&style=flat" alt="ashish23jun" /> </p>
 
-- 🔭 I’m currently working on [Work Holo]
+- 🔭 I’m currently working on **Work Holo**
 
 - 🌱 I’m currently learning **DevOps**
 
