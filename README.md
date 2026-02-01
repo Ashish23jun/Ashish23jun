@@ -7,17 +7,13 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with [Project Management System](https://github.com/Ashish23jun/ProjectManagementSystem)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish23jun](https://github.com/Ashish23jun)
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **pandey.k.ashish.86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vDJ2hiT0MdpfP798rfNue6Ga51EAqUGJ/view?usp=sharing](https://drive.google.com/file/d/1vDJ2hiT0MdpfP798rfNue6Ga51EAqUGJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cw5OoF9MULFfbcKYLKkzA8YW8m-q0SYC/view?usp=sharing](https://drive.google.com/file/d/1cw5OoF9MULFfbcKYLKkzA8YW8m-q0SYC/view?usp=sharing)
 
-- ⚡ Fun fact **Java becomes easier and more enjoyable once you start working with it.**
+- ⚡ Fun fact **Development becomes easier and more enjoyable once you start working with it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
