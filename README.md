@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Work Holo**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish23jun](https://github.com/Ashish23jun)
 
