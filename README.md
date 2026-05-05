@@ -49,19 +49,19 @@ contact: pandey.k.ashish.86@gmail.com
 ---
 
 ## 🔥 What I've Shipped
-
 > **Creators Mela** — Video SaaS Platform *(Founding Engineer)*
 - 🎬 Migrated rendering from Canvas/Pillow → **Remotion Lambda**, cutting render time from **3–4 min → 30–40s** for 60fps videos
+- 🌐 Built **adaptive render routing** — routes jobs to user's browser for capable machines, offloading CPU entirely to the client; falls back to Remotion Lambda for low-end devices, eliminating infrastructure rendering costs at scale
 - 📦 Handles **20GB+ renders daily** across **1,000+ jobs**
-- 💳 Built full **Razorpay subscription + billing** system with HMAC webhook verification
 - 🎙️ Dual transcription engines (Deepgram + Sarvam AI) with **<100ms word-level accuracy**
 - ⬆️ S3 presigned upload flow — direct client-to-S3 uploads up to **3GB per video**
 
 > **Experiment Labs** — Multi-Product Platform *(Fullstack Engineer)*
-- 🔐 Multi-tenant SSO across **4 products, 4,000+ users** — session validation under **50ms**
-- 🤖 AI recommendation engine — OpenAI embeddings + Pinecone for **3,000+ students**
-- 💰 Fixed payment reliability for **500+ monthly transactions** by migrating Lambda → EC2
-
+- 🔐 Architected **multi-tenant SSO** across 4 products, 4,000+ users — Redis-backed session validation under **50ms** with 39+ permissions, 5 roles, and cross-domain session sharing
+- 🤖 Shipped **AI recommendation engine** — OpenAI embeddings + Pinecone vector search delivering personalized career insights to **3,000+ students**
+- 💰 Fixed payment reliability for **500+ monthly transactions** — migrated Lambda → EC2, eliminating serverless timeouts on webhook listeners
+- 📄 Generated personalized **student PDF reports** with AI-driven career roadmaps; handled secure file uploads and downloads via **S3 presigned URLs**
+- ⚛️ Delivered **React frontends across 3 products** — optimized server-state caching and client persistence, cutting redundant API calls significantly
 ---
 
 ## 🛠️ Tech Stack
@@ -99,15 +99,13 @@ contact: pandey.k.ashish.86@gmail.com
 ---
 
 ## 🚀 Featured Project
-
 ### [Work Holo](https://github.com/Ashish23jun) — Multi-tenant Agent Platform
-> React.js · Hono · oRPC · RabbitMQ · PostgreSQL · Drizzle · Bun
-
+> React.js · Hono · oRPC · RabbitMQ · PostgreSQL · Drizzle · FreeSWITCH · Bun
 - 🏢 Organizations manage agents with full **RBAC + real-time attendance tracking**
+- 📞 Built **VoIP dialer using FreeSWITCH** — agents make outbound calls to leads via SIP trunks and DID numbers with live call state sync to the frontend
+- 📊 Real-time **call monitoring dashboard** — live agent status, call duration, and disposition tagging for supervisor campaign management
 - ⚡ **ElectricSQL** for instant message sync; **RabbitMQ** for async delivery pipelines
 - 🔒 **Better-Auth + OAuth 2.0** with granular permission assignment across org hierarchies
-- 🔷 Type-safe API layer across **30+ endpoints** — zero runtime errors from contract mismatches
-
 ---
 
 ## 📊 GitHub Stats
